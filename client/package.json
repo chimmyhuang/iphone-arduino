@@ -1,0 +1,19 @@
+{
+  "name": "great-macaroni-and-cheese",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "expo-cli": "^2.7.1",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-paper": "2.2.8",
+    "react-native-progress": "^3.5.0",
+    "react-native-swiper": "^1.5.14",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
